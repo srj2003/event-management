@@ -31,5 +31,5 @@ A RESTful API for managing events, attendees, and user authentication using Node
 
 2. **Clone repository**
    ```bash
-   git clone https://github.com/srj2003/event-management-api.git
+   git clone https://github.com/srj2003/event-management.git
    cd event-management-api
