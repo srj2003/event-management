@@ -1,5 +1,5 @@
 const express = require("express");
-const { protect } = require("../middleware/authMiddleware");
+const { protect } = require("../middleware/attendeeMiddleware");
 const { rsvp, getAttendees } = require("../controllers/attendeeController");
 const router = express.Router();
 
